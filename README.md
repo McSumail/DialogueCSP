@@ -1,2 +1,2 @@
 # DialogueCSP
-## We will release the datasets after encryption processing and the code soon.
+## We will release the dataset after encryption processing and the code soon.
